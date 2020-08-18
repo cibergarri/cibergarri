@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World 👋 👨🏻‍💻
+
+<a href="https://javiergarrido.dev"><img src="https://javiergarrido.dev/javiergarrido.png" alt="Javier Garrido" width="200" height="200" /></a>
 
 <!--
 **cibergarri/cibergarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
