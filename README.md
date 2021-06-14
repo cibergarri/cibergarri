@@ -2,6 +2,8 @@
 
 <a href="https://javiergarrido.dev"><img src="https://javiergarrido.dev/javiergarrido.png" alt="Javier Garrido" width="200" height="200" /></a>
 
+![](https://komarev.com/ghpvc/?username=cibergarri&color=orange)
+
 <!--
 **cibergarri/cibergarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
